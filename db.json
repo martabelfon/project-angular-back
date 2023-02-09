@@ -1,0 +1,39 @@
+{
+    "html": [
+      {
+        "documentation":["https://developer.mozilla.org/es/docs/Web/HTML","https://www.w3schools.com/TAGS/default.asp"],
+        "tutorials": {
+            "videos":[
+                {}
+            ],
+            "texto":""
+        },
+        "recursos":[],
+        "librerias":[]
+     }
+    ],
+
+    "css": [
+    {
+        "documentation":["https://developer.mozilla.org/es/docs/Web/CSS", "https://www.w3schools.com/cssref/index.php"],
+        "tutorials": {
+            "videos":"",
+            "texto":""
+        },
+        "recursos":[],
+        "librerias":[]
+        }
+      ],
+
+    "js": [
+    {
+        "documentation":["https://developer.mozilla.org/es/docs/Web/JavaScript"],
+        "tutorials": {
+            "videos":"",
+            "texto":""
+        },
+        "recursos":[],
+        "librerias":[]
+        }
+    ]
+  }
