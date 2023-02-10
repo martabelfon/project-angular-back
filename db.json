@@ -27,6 +27,7 @@
                 },
                 "https://www.w3schools.com/TAGS/default.asp"
             ],
+
             "tutorials": {
                 "videos": [
                     {
@@ -72,6 +73,7 @@
                 }
             ]
         }
+
     ],
     "css": [
         {
