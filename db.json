@@ -1,39 +1,174 @@
 {
+    "favorites": [
+        {
+            "github": "https://github.com/",
+            "vercel": "https://vercel.com/new",
+            "miro": "https://miro.com/app/dashboard/"
+        }
+    ],
+
     "html": [
-      {
-        "documentation":["https://developer.mozilla.org/es/docs/Web/HTML","https://www.w3schools.com/TAGS/default.asp"],
-        "tutorials": {
-            "videos":[
-                {}
+        {
+            "documentation": [
+                {
+                    "img": "",
+                    "title": "Documentación",
+                    "author": "mdn web docs_",
+                    "descriptión": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
+                    "url": "https://developer.mozilla.org/es/docs/Web/HTML"
+
+                },
+                {
+                    "img": "",
+                    "title": "Documentación",
+                    "author": "W3Schools",
+                    "descriptión": "",
+                    "url": "https://www.w3schools.com/html/default.asp"
+                },
+                "https://www.w3schools.com/TAGS/default.asp"
             ],
-            "texto":""
-        },
-        "recursos":[],
-        "librerias":[]
-     }
+
+            "tutorials": {
+                "videos": [
+                    {
+                        "title": "",
+                        "author": "",
+                        "descriptión": "",
+                        "url": ""
+                    }
+                ],
+                "texto": [
+                    {
+                        "img": "",
+                        "title": "Tutorial HTML",
+                        "author": "W3Schools",
+                        "descriptión": "En este tutorial de HTML, encontrará más de 200 ejemplos y casi 100 ejercicios de HTML",
+                        "url": "https://www.w3schools.com/html/default.asp"
+                    },
+                    {
+                        "img": "",
+                        "title": "Tutorial de HTML y HTML5 ",
+                        "author": "Desarrolladores web",
+                        "descriptión": "Aprenderás el lenguaje más básico de la web; HTML es sin duda el lenguaje por donde debes empezar para convertirte en un experto desarrollador web.",
+                        "url": "https://desarrolladoreweb.org/tutorial-html-html5-completo/"
+                    }
+                ]
+            },
+            "recursos": [
+                {
+                    "img": "",
+                    "title": "",
+                    "author": "",
+                    "descriptión": "",
+                    "url": ""
+                }
+            ]
+        }    
     ],
 
     "css": [
-    {
-        "documentation":["https://developer.mozilla.org/es/docs/Web/CSS", "https://www.w3schools.com/cssref/index.php"],
-        "tutorials": {
-            "videos":"",
-            "texto":""
-        },
-        "recursos":[],
-        "librerias":[]
+        {
+            "documentation": [
+                {
+                    "img": "",
+                    "title": "Documentación",
+                    "author": "mdn web docs_",
+                    "descriptión": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
+                    "url": "https://developer.mozilla.org/es/docs/Web/CSS"
+                },
+                {
+                    "img": "",
+                    "title": "Documentación",
+                    "author": "W3Schools",
+                    "descriptión": "",
+                    "url": "https://www.w3schools.com/cssref/index.php"
+                }
+            ],
+            "tutorials": {
+                "videos": [
+                    {
+                        "title": "",
+                        "author": "",
+                        "descriptión": "",
+                        "url": ""
+                    }
+                ],
+                "text": [
+                    {
+                        "img": "",
+                        "title": "",
+                        "author": "",
+                        "descriptión": "",
+                        "url": ""
+                    }
+                ]
+            },
+            "resources": [
+                {
+                    "img": "",
+                    "title": "Bennett Feely",
+                    "author": "Bennett Feely",
+                    "descriptión": "CSS Creatures, make a creature from your tweet, Pie Chart, generate pie chars with conic gradients, gradients, flexplorer, scales, ",
+                    "url": "https://bennettfeely.com/clippy/"
+                }
+            ],
+            "library": [
+                {
+                    "img": "",
+                    "title": "",
+                    "author": "",
+                    "descriptión": "",
+                    "url": ""
+                }
+            ]
         }
-      ],
-
+    ],
     "js": [
-    {
-        "documentation":["https://developer.mozilla.org/es/docs/Web/JavaScript"],
-        "tutorials": {
-            "videos":"",
-            "texto":"Hola"
-        },
-        "recursos":[],
-        "librerias":[]
+        {
+            "documentation": [
+                {
+                    "img": "",
+                    "title": "Documentación",
+                    "author": "mdn web docs_",
+                    "descriptión": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
+                    "url":"https://developer.mozilla.org/es/docs/Web/JavaScript"
+                }
+
+            ],
+            "tutorials": {
+                "videos": {
+                    "title": "Leguaje Javascript",
+                    "author": "Manzdev",
+                    "descriptión": "Ejercicios, teoria, CSS, HTML5 y recursos ",
+                    "url": "https://lenguajejs.com/javascript/"
+                },
+                "text": {
+                    "img": "",
+                    "title": "",
+                    "author": "",
+                    "descriptión": "",
+                    "url": ""
+                }
+            },
+            "resources": [
+                {
+                    "img": "",
+                    "title": "",
+                    "author": "",
+                    "descriptión": "",
+                    "url": ""
+                }
+            ],
+            "library": [
+                {
+                    "img": "",
+                    "title": "",
+                    "author": "",
+                    "descriptión": "",
+                    "url": ""
+                }
+            ]
+
         }
     ]
-  }
+}
