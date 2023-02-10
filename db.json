@@ -60,19 +60,10 @@
                     "descriptión": "",
                     "url": ""
                 }
-            ],
-            "librerias": [
-                {
-                    "img": "",
-                    "title": "",
-                    "author": "",
-                    "descriptión": "",
-                    "url": ""
-                }
             ]
-        }
-
+        }    
     ],
+
     "css": [
         {
             "documentation": [
@@ -175,6 +166,7 @@
                     "url": ""
                 }
             ]
+
         }
     ]
 }
