@@ -1,27 +1,27 @@
 {
-    "favorites": [
+    "favorites": 
         {
             "github": "https://github.com/",
             "vercel": "https://vercel.com/new",
             "miro": "https://miro.com/app/dashboard/"
-        }
-    ],
+        },
 
-    "html": [
+    "html": 
         {
             "documentation": [
                 {
                     "img": "",
                     "title": "Documentación",
                     "author": "mdn web docs_",
-                    "descriptión": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
+                    "description": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
                     "url": "https://developer.mozilla.org/es/docs/Web/HTML"
+
                 },
                 {
                     "img": "",
                     "title": "Documentación",
                     "author": "W3Schools",
-                    "descriptión": "Web de la documentación de W3Schools",
+                    "description": "",
                     "url": "https://www.w3schools.com/html/default.asp"
                 }
             ],
@@ -29,56 +29,64 @@
             "tutorials": {
                 "videos": [
                     {
-                        "title": "",
-                        "author": "",
-                        "descriptión": "",
-                        "url": ""
+                        "title": "Prueba",
+                        "author": "Midudev",
+                        "description": "Hola",
+                        "url": "https://www.youtube.com/watch?v=Bpyl59_fjvU&ab_channel=midudev"
                     }
                 ],
-                "texto": [
+                "text": [
                     {
                         "img": "",
                         "title": "Tutorial HTML",
                         "author": "W3Schools",
-                        "descriptión": "En este tutorial de HTML, encontrará más de 200 ejemplos y casi 100 ejercicios de HTML",
+                        "description": "En este tutorial de HTML, encontrará más de 200 ejemplos y casi 100 ejercicios de HTML",
                         "url": "https://www.w3schools.com/html/default.asp"
                     },
                     {
                         "img": "",
                         "title": "Tutorial de HTML y HTML5 ",
                         "author": "Desarrolladores web",
-                        "descriptión": "Aprenderás el lenguaje más básico de la web; HTML es sin duda el lenguaje por donde debes empezar para convertirte en un experto desarrollador web.",
+                        "description": "Aprenderás el lenguaje más básico de la web; HTML es sin duda el lenguaje por donde debes empezar para convertirte en un experto desarrollador web.",
                         "url": "https://desarrolladoreweb.org/tutorial-html-html5-completo/"
                     }
                 ]
             },
-            "recursos": [
+            "resources": [
                 {
                     "img": "",
                     "title": "",
                     "author": "",
-                    "descriptión": "",
+                    "description": "",
                     "url": ""
                 }
+            ],
+            "library": [
+                {
+                    "img": "",
+                    "title": "nfgjy",
+                    "author": "etr",
+                    "description": "ethryh",
+                    "url": "htrheq"
+                }
             ]
-        }    
-    ],
+        },
 
-    "css": [
+    "css": 
         {
             "documentation": [
                 {
                     "img": "",
                     "title": "Documentación",
                     "author": "mdn web docs_",
-                    "descriptión": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
+                    "description": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
                     "url": "https://developer.mozilla.org/es/docs/Web/CSS"
                 },
                 {
                     "img": "",
                     "title": "Documentación",
                     "author": "W3Schools",
-                    "descriptión": "",
+                    "description": "",
                     "url": "https://www.w3schools.com/cssref/index.php"
                 }
             ],
@@ -87,7 +95,7 @@
                     {
                         "title": "",
                         "author": "",
-                        "descriptión": "",
+                        "description": "",
                         "url": ""
                     }
                 ],
@@ -96,7 +104,7 @@
                         "img": "",
                         "title": "",
                         "author": "",
-                        "descriptión": "",
+                        "description": "",
                         "url": ""
                     }
                 ]
@@ -106,7 +114,7 @@
                     "img": "",
                     "title": "Bennett Feely",
                     "author": "Bennett Feely",
-                    "descriptión": "CSS Creatures, make a creature from your tweet, Pie Chart, generate pie chars with conic gradients, gradients, flexplorer, scales, ",
+                    "description": "CSS Creatures, make a creature from your tweet, Pie Chart, generate pie chars with conic gradients, gradients, flexplorer, scales, ",
                     "url": "https://bennettfeely.com/clippy/"
                 }
             ],
@@ -115,20 +123,19 @@
                     "img": "",
                     "title": "",
                     "author": "",
-                    "descriptión": "",
+                    "description": "",
                     "url": ""
                 }
             ]
-        }
-    ],
-    "js": [
+        },
+    "js": 
         {
             "documentation": [
                 {
                     "img": "",
                     "title": "Documentación",
                     "author": "mdn web docs_",
-                    "descriptión": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
+                    "description": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
                     "url":"https://developer.mozilla.org/es/docs/Web/JavaScript"
                 }
 
@@ -137,14 +144,14 @@
                 "videos": {
                     "title": "Leguaje Javascript",
                     "author": "Manzdev",
-                    "descriptión": "Ejercicios, teoria, CSS, HTML5 y recursos ",
+                    "description": "Ejercicios, teoria, CSS, HTML5 y resources ",
                     "url": "https://lenguajejs.com/javascript/"
                 },
                 "text": {
                     "img": "",
                     "title": "",
                     "author": "",
-                    "descriptión": "",
+                    "description": "",
                     "url": ""
                 }
             },
@@ -153,7 +160,7 @@
                     "img": "",
                     "title": "",
                     "author": "",
-                    "descriptión": "",
+                    "description": "",
                     "url": ""
                 }
             ],
@@ -162,11 +169,9 @@
                     "img": "",
                     "title": "",
                     "author": "",
-                    "descriptión": "",
+                    "description": "",
                     "url": ""
                 }
             ]
-
         }
-    ]
 }
