@@ -4,14 +4,16 @@
     "vercel": "https://vercel.com/new",
     "miro": "https://miro.com/app/dashboard/"
   },
-  "html-documentation": [
+  "html": [
     {
       "id": 1,
       "img": "",
       "title": "Documentación",
       "author": "mdn web docs_",
       "description": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
-      "url": "https://developer.mozilla.org/es/docs/Web/HTML"
+      "video": "",
+      "url": "https://developer.mozilla.org/es/docs/Web/HTML",
+      "tag": "documentation"
     },
     {
       "id": 2,
@@ -19,64 +21,71 @@
       "title": "Documentación",
       "author": "W3Schools",
       "description": "",
-      "url": "https://www.w3schools.com/html/default.asp"
-    }
-  ],
-  "html-tutorials-videos": [
+      "video": "",
+      "url": "https://www.w3schools.com/html/default.asp",
+      "tag": "documentation"
+    },
     {
-      "id": 1,
+      "id": 3,
+      "img": "",
       "title": "Prueba",
       "author": "Midudev",
       "description": "Hola",
-      "url": "https://www.youtube.com/watch?v=Bpyl59_fjvU&ab_channel=midudev"
-    }
-  ],
-  "html-turtorials-text": [
+      "video": "",
+      "url": "https://www.youtube.com/watch?v=Bpyl59_fjvU&ab_channel=midudev",
+      "tag": "videotutorial"
+    },
     {
-      "id": 1,
+      "id": 4,
       "img": "",
       "title": "Tutorial HTML",
       "author": "W3Schools",
       "description": "En este tutorial de HTML, encontrará más de 200 ejemplos y casi 100 ejercicios de HTML",
-      "url": "https://www.w3schools.com/html/default.asp"
+      "video": "",
+      "url": "https://www.w3schools.com/html/default.asp",
+      "tag": "texttutorial"
     },
     {
-      "id": 2,
+      "id": 5,
       "img": "",
       "title": "Tutorial de HTML y HTML5 ",
       "author": "Desarrolladores web",
       "description": "Aprenderás el lenguaje más básico de la web; HTML es sin duda el lenguaje por donde debes empezar para convertirte en un experto desarrollador web.",
-      "url": "https://desarrolladoreweb.org/tutorial-html-html5-completo/"
-    }
-  ],
-  "html-resources": [
+      "url": "https://desarrolladoreweb.org/tutorial-html-html5-completo/",
+      "video": "",
+      "tag": "texttutorial"
+    },
     {
-      "id": 1,
+      "id": 6,
       "img": "",
       "title": "",
       "author": "",
       "description": "",
-      "url": ""
-    }
-  ],
-  "html-library": [
+      "url": "",
+      "video": "",
+      "tag": "resources"
+    },
     {
-      "id": 1,
+      "id": 7,
       "img": "",
       "title": "nfgjy",
       "author": "etr",
       "description": "ethryh",
-      "url": "htrheq"
+      "url": "htrheq",
+      "video": "",
+      "tag": "library"
     }
   ],
-  "css-documentation": [
+  "css": [
     {
       "id": 1,
       "img": "",
       "title": "Documentación",
       "author": "mdn web docs_",
       "description": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
-      "url": "https://developer.mozilla.org/es/docs/Web/CSS"
+      "url": "https://developer.mozilla.org/es/docs/Web/HTML",
+      "video": "",
+      "tag": "documentation"
     },
     {
       "id": 2,
@@ -84,54 +93,131 @@
       "title": "Documentación",
       "author": "W3Schools",
       "description": "",
-      "url": "https://www.w3schools.com/cssref/index.php"
-    }
-  ],
-  "css-tutorials-videos": [
+      "url": "https://www.w3schools.com/html/default.asp",
+      "video": "",
+      "tag": "documentation"
+    },
     {
-
-    }
-  ],
-  "css-tutorials-text": [],
-  "css-resources": [
-    {
-        "id": 1,
+      "id": 3,
       "img": "",
-      "title": "Bennett Feely",
-      "author": "Bennett Feely",
-      "description": "CSS Creatures, make a creature from your tweet, Pie Chart, generate pie chars with conic gradients, gradients, flexplorer, scales, ",
-      "url": "https://bennettfeely.com/clippy/"
+      "title": "Prueba",
+      "author": "Midudev",
+      "description": "Hola",
+      "url": "https://www.youtube.com/watch?v=Bpyl59_fjvU&ab_channel=midudev",
+      "video": "",
+      "tag": "videotutorial"
+    },
+    {
+      "id": 4,
+      "img": "",
+      "title": "Tutorial HTML",
+      "author": "W3Schools",
+      "description": "En este tutorial de HTML, encontrará más de 200 ejemplos y casi 100 ejercicios de HTML",
+      "url": "https://www.w3schools.com/html/default.asp",
+      "video": "",
+      "tag": "texttutorial"
+    },
+    {
+      "id": 5,
+      "img": "",
+      "title": "Tutorial de HTML y HTML5 ",
+      "author": "Desarrolladores web",
+      "description": "Aprenderás el lenguaje más básico de la web; HTML es sin duda el lenguaje por donde debes empezar para convertirte en un experto desarrollador web.",
+      "url": "https://desarrolladoreweb.org/tutorial-html-html5-completo/",
+      "video": "",
+      "tag": "texttutorial"
+    },
+    {
+      "id": 6,
+      "img": "",
+      "title": "",
+      "author": "",
+      "description": "",
+      "url": "",
+      "video": "",
+      "tag": "resources"
+    },
+    {
+      "id": 7,
+      "img": "",
+      "title": "nfgjy",
+      "author": "etr",
+      "description": "ethryh",
+      "url": "htrheq",
+      "video": "",
+      "tag": "library"
     }
   ],
-  "css-library": [
-
-  ],
-  "js-documentation": [
+  "js": [
     {
-        "id": 1,
+      "id": 1,
       "img": "",
       "title": "Documentación",
       "author": "mdn web docs_",
       "description": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
-      "url": "https://developer.mozilla.org/es/docs/Web/JavaScript"
-    }
-  ],
-  "js-tutorials-videos": [
+      "url": "https://developer.mozilla.org/es/docs/Web/HTML",
+      "video": "",
+      "tag": "documentation"
+    },
     {
-        "id": 1,
-      "title": "Leguaje Javascript",
-      "author": "Manzdev",
-      "description": "Ejercicios, teoria, CSS, HTML5 y resources ",
-      "url": "https://lenguajejs.com/javascript/"
+      "id": 2,
+      "img": "",
+      "title": "Documentación",
+      "author": "W3Schools",
+      "description": "",
+      "url": "https://www.w3schools.com/html/default.asp",
+      "video": "",
+      "tag": "documentation"
+    },
+    {
+      "id": 3,
+      "img": "",
+      "title": "Prueba",
+      "author": "Midudev",
+      "description": "Hola",
+      "url": "",
+      "video": "https://www.youtube.com/watch?v=Bpyl59_fjvU&ab_channel=midudev",
+      "tag": "videotutorial"
+    },
+    {
+      "id": 4,
+      "img": "",
+      "title": "Tutorial HTML",
+      "author": "W3Schools",
+      "description": "En este tutorial de HTML, encontrará más de 200 ejemplos y casi 100 ejercicios de HTML",
+      "url": "https://www.w3schools.com/html/default.asp",
+      "video": "",
+      "tag": "texttutorial"
+    },
+    {
+      "id": 5,
+      "img": "",
+      "title": "Tutorial de HTML y HTML5 ",
+      "author": "Desarrolladores web",
+      "description": "Aprenderás el lenguaje más básico de la web; HTML es sin duda el lenguaje por donde debes empezar para convertirte en un experto desarrollador web.",
+      "url": "https://desarrolladoreweb.org/tutorial-html-html5-completo/",
+      "video": "",
+      "tag": "texttutorial"
+    },
+    {
+      "id": 6,
+      "img": "",
+      "title": "",
+      "author": "",
+      "description": "",
+      "url": "",
+      "video": "",
+      "tag": "resources"
+    },
+    {
+      "id": 7,
+      "img": "",
+      "title": "nfgjy",
+      "author": "etr",
+      "description": "ethryh",
+      "url": "htrheq",
+      "video": "",
+      "tag": "library"
     }
-  ],
-  "js-tutorials-text": [
-
-  ],
-  "js-resources": [
-
-  ],
-  "js-library": [
-
   ]
 }
