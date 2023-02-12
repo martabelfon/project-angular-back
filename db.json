@@ -1,9 +1,21 @@
 {
-  "favorites": {
-    "github": "https://github.com/",
-    "vercel": "https://vercel.com/new",
-    "miro": "https://miro.com/app/dashboard/"
-  },
+  "favorites": [
+    {
+      "title": "GitHUB",
+      "url": "https://github.com/",
+      "icon": "assets/icons/github.png"
+    },
+    {
+      "title": "Vercel",
+      "url": "https://vercel.com/",
+      "icon": "assets/icons/vercel.png"
+    },
+    {
+      "title": "Miro",
+      "url": "https://miro.com/es/",
+      "icon": "assets/icons/miro.png"
+    }
+  ],
   "html": [
     {
       "id": 1,
