@@ -118,6 +118,16 @@
       "description": "ethryh",
       "url": "htrheq",
       "tag": "library"
+    },
+    {
+      "img": "",
+      "title": "Programación",
+      "author": "GettyImages Robado",
+      "description": "Video de muestra de distinto host que Youtube",
+      "url": "",
+      "video": "https://www.youtube.com/watch?v=3ncFpP8GP4g&ab_channel=KevinPowell",
+      "tag": "videotutorial",
+      "id": 8
     }
   ],
   "js": [
@@ -176,6 +186,16 @@
       "description": "ethryh",
       "url": "htrheq",
       "tag": "library"
+    },
+    {
+      "img": "",
+      "title": "video de cacas",
+      "author": "Oriol El Cacas",
+      "description": "Video sobre cacas subido por Oriol el Cacas",
+      "url": "",
+      "video": "https://www.youtube.com/watch?v=Z-FazI9LRuo&ab_channel=poopman",
+      "tag": "videotutorial",
+      "id": 8
     }
   ]
 }
