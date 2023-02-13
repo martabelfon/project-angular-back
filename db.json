@@ -76,67 +76,19 @@
       "video": "",
       "tag": "Recursos",
       "id": 13
-    }
-  ],
-  "css": [
-    {
-      "id": 1,
-      "title": "ESTO ES CSS !!!!",
-      "author": "mdn web docs_",
-      "description": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
-      "url": "https://developer.mozilla.org/es/docs/Web/HTML",
-      "tag": "Documentación"
-    },
-    {
-      "id": 2,
-      "title": "Documentación",
-      "author": "W3Schools",
-      "description": "",
-      "url": "https://www.w3schools.com/html/default.asp",
-      "tag": "Documentación"
-    },
-    {
-      "id": 3,
-      "title": "Prueba",
-      "author": "Midudev",
-      "description": "Hola",
-      "video": "https://www.youtube.com/watch?v=Bpyl59_fjvU&ab_channel=midudev",
-      "tag": "Videotutorial"
-    },
-    {
-      "id": 4,
-      "title": "Tutorial HTML",
-      "author": "W3Schools",
-      "description": "En este tutorial de HTML, encontrará más de 200 ejemplos y casi 100 ejercicios de HTML",
-      "url": "https://www.w3schools.com/html/default.asp",
-      "tag": "Tutorial"
-    },
-    {
-      "id": 5,
-      "title": "Tutorial de HTML y HTML5 ",
-      "author": "Desarrolladores web",
-      "description": "Aprenderás el lenguaje más básico de la web; HTML es sin duda el lenguaje por donde debes empezar para convertirte en un experto desarrollador web.",
-      "url": "https://desarrolladoreweb.org/tutorial-html-html5-completo/",
-      "tag": "Tutorial"
-    },
-    {
-      "id": 6,
-      "title": "",
-      "author": "",
-      "description": "",
-      "url": "",
-      "tag": "Recursos"
     },
     {
       "img": "",
-      "title": "Programación",
-      "author": "GettyImages Robado",
-      "description": "Video de muestra de distinto host que Youtube",
+      "title": "Cómo comenzar a DISEÑAR una WEB o APP",
+      "author": "MoureDev By Brais Moure",
+      "description": "El diseño de tu web o app es tan importante como su programación, y debes dedicarle el tiempo necesario. En este vídeo te cuento cómo herramientas como Miro te ayudarán a diseñar tus prototipos (wireframes) de forma rápida y fácil.",
       "url": "",
-      "video": "https://www.youtube.com/watch?v=3ncFpP8GP4g&ab_channel=KevinPowell",
+      "video": "https://www.youtube.com/watch?v=4Azc4Gs2nlU&ab_channel=MoureDevbyBraisMoure",
       "tag": "Videotutorial",
-      "id": 8
-    },
+      "id": 14
+    }
+  ],
+  "css": [
     {
       "img": "https://blog.icons8.com/wp-content/uploads/2020/10/collections-icons8-1-1280x720.png",
       "title": "Icons8",
@@ -146,58 +98,88 @@
       "video": "",
       "tag": "Recursos",
       "id": 9
+    },
+    {
+      "img": "https://smartslider3.com/wp-content/uploads/2019/01/imageslider-1-780x410.png",
+      "title": "98 CSS Hover Effects",
+      "author": "Free Frontend",
+      "description": "Librería con muchos efectos CSS para diseñar tus hover de forma original y no usar lo más básico.",
+      "url": "https://freefrontend.com/css-hover-effects/",
+      "video": "",
+      "tag": "Librería",
+      "id": 10
+    },
+    {
+      "img": "https://i.ytimg.com/vi/wtfATdEMUxY/maxresdefault.jpg",
+      "title": "BOX-Shadow Generator",
+      "author": "CSSmatic",
+      "description": "Aquí podrás diseñar tu efecto box-shadow, copiar su código e importarlo a tu CSS para editarlo de una forma más bonita.",
+      "url": "https://www.cssmatic.com/box-shadow",
+      "video": "",
+      "tag": "Recursos",
+      "id": 11
+    },
+    {
+      "img": "",
+      "title": "Aprende CSS en 15 Minutos 📘",
+      "author": "Victor Robles Web",
+      "description": "Aprende lo fundamental de la maquetación web y de CSS. El lenguaje de hojas de estilo más usado, más estandar y más  demandado actualmente que nos permite dar estilos y forma a una web. Te enseñaré como empezar en CSS y como trabajar con selectores, propiedades, fondos, colores, floats, maquetación y mucho más. Todo en 15 minutos, desde cero y paso a paso.",
+      "url": "",
+      "video": "https://www.youtube.com/watch?v=3yM5uXp-T_0&ab_channel=VictorRoblesWEB",
+      "tag": "Videotutorial",
+      "id": 12
+    },
+    {
+      "img": "",
+      "title": "☝️Scroll Snap, crea un slider sólo usando CSS 😱",
+      "author": "midudev",
+      "description": "Aprende a hacer sliders con solo CSS con un rendimiento nativo y animaciones super suaves.  Si llevas unos años en la programación web estoy bastante seguro que te has enfrentado a uno de los problemas más recurrentes del mundillo. Hablo de los sliders.  A falta de una implementación nativa, cientos de soluciones en Javascript han convivido a lo largo de los años. Algunos vanilla, otros basados en alguna librería como jQuery o React, pero todos basándose de alguna forma en cálculos sobre el DOM. Algunos nombres serían: slick, slippery, momentum-slider, simple-slider… y es que, una simple búsqueda en Google nos arroja aproximadamente más de un millón de resultados. 🤯  Pues sabes qué, que eso se ha acabado. Porque, por fin, ahora en CSS podrás crear tus propios sliders sin necesidad de utilizar, en la gran mayoría de los casos, una librería. Se llama Scroll Snap, tiene un soporte bastante respetable y va a cambiar mucho el cómo creamos sliders en web.",
+      "url": "",
+      "video": "https://www.youtube.com/watch?v=uhP6OL0bwpY&ab_channel=midudev",
+      "tag": "Videotutorial",
+      "id": 13
     }
   ],
   "js": [
     {
-      "id": 1,
-      "title": "Documentación",
-      "author": "mdn web docs_",
-      "description": "HTML (Lenguaje de Marcas de Hipertexto, del inglés HyperText Markup Language) es el componente más básico de la Web. Define el significado y la estructura del contenido web. Además de HTML, generalmente se utilizan otras tecnologías para describir la apariencia/presentación de una página web (CSS) o la funcionalidad/comportamiento (JavaScript).",
-      "url": "https://developer.mozilla.org/es/docs/Web/HTML",
-      "tag": "Documentación"
-    },
-    {
-      "id": 2,
-      "title": "Documentación",
-      "author": "W3Schools",
-      "description": "",
-      "url": "https://www.w3schools.com/html/default.asp",
-      "tag": "Documentación"
-    },
-    {
-      "id": 3,
-      "title": "Prueba",
-      "author": "Midudev",
-      "description": "Hola",
-      "video": "https://www.youtube.com/watch?v=Bpyl59_fjvU&ab_channel=midudev",
-      "tag": "Videotutorial"
-    },
-    {
-      "id": 4,
-      "title": "Tutorial HTML",
-      "author": "W3Schools",
-      "description": "En este tutorial de HTML, encontrará más de 200 ejemplos y casi 100 ejercicios de HTML",
-      "url": "https://www.w3schools.com/html/default.asp",
-      "tag": "Tutorial"
-    },
-    {
-      "id": 5,
-      "title": "Tutorial de HTML y HTML5 ",
-      "author": "Desarrolladores web",
-      "description": "Aprenderás el lenguaje más básico de la web; HTML es sin duda el lenguaje por donde debes empezar para convertirte en un experto desarrollador web.",
-      "url": "https://desarrolladoreweb.org/tutorial-html-html5-completo/",
-      "tag": "Tutorial"
-    },
-    {
       "img": "",
-      "title": "video de cacas",
-      "author": "Oriol El Cacas",
-      "description": "Video sobre cacas subido por Oriol el Cacas",
+      "title": "Desarrolla con JavaScript sin bibliotecas un mini proyecto hasta producción (para principiantes)",
+      "author": "midudev",
+      "description": "Construimos una pequeña aplicación que hace fetching de datos a una API y muestra los datos en pantalla. Luego la desplegamos a producción totalmente gratis para que cualquier persona pueda acceder a ella.  El vídeo es para gente que está empezando a aprender programación y quieren crear un proyecto desde cero, paso a paso, y luego tener una URL donde otra gente pueda ver lo que ha creado.",
       "url": "",
-      "video": "https://www.youtube.com/watch?v=Z-FazI9LRuo&ab_channel=poopman",
+      "video": "https://www.youtube.com/watch?v=6AMKwVcpYTk&ab_channel=midudev",
       "tag": "Videotutorial",
-      "id": 8
+      "id": 9
+    },
+    {
+      "img": "https://www.lucushost.com/blog/wp-content/uploads/2019/10/bootstrap.png",
+      "title": "BOOTSTRAP",
+      "author": "BootStrap Team",
+      "description": "Kit de herramientas frontal potente, ampliable y repleto de funciones. Cree y personalice con Sass, utilice el sistema de grillas y los componentes prediseñados y haga que los proyectos cobren vida con potentes complementos de JavaScript.",
+      "url": "https://getbootstrap.com/",
+      "video": "",
+      "tag": "Librería",
+      "id": 10
+    },
+    {
+      "img": "https://chakra-ui.com/og-image.png",
+      "title": "ChakraUI",
+      "author": "Segun Adebayo",
+      "description": "Chakra UI es una biblioteca de componentes simple, modular y accesible que le brinda los componentes básicos que necesita para crear sus aplicaciones React.",
+      "url": "https://chakra-ui.com/",
+      "video": "",
+      "tag": "Librería",
+      "id": 11
+    },
+    {
+      "img": "https://www.cursosgis.com/wp-content/uploads/1-52.jpg",
+      "title": "Documentación de Javascript de MDN",
+      "author": "mdn web docs",
+      "description": "Documentación de JavaScript dónde se podrás encontrar funciones, funcionamiento y otras curiosidades para aprender y trabajar con JavaScript",
+      "url": "https://developer.mozilla.org/en-US/docs/Web/JavaScript",
+      "video": "",
+      "tag": "Documentación",
+      "id": 12
     }
   ]
 }
